@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: green;
+}
+
+p{
+    font-family: fantasy;
+    font-size: 23px;
+}
+
+p.blueParagraph{
+    color: blue;
+}
+
+p.yellowParagraph{
+    color: yellow;
+}
+
+body {
+    background-color:burlywood;
+}
